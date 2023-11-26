@@ -24,10 +24,9 @@ Une entreprise qui me permettra d'acquérir de l'expérience pratique et de trav
  <img src="https://github.com/LaetitiaBertomeu/LaetitiaBertomeu/assets/133353977/10990a2f-1fb2-4278-b004-6ed0476ee165" width="30" height="30"> www.linkedin.com/in/laetitia-bertomeu
 
 
-[CV Laetitia Bertomeu - Développeuse Web.pdf](https://github.com/LaetitiaBertomeu/LaetitiaBertomeu/files/13401431/CV.Laetitia.Bertomeu.-.Developpeuse.Web.pdf)
 
 
-[CV Laetitia Bertomeu - Développeuse Web en Alternance.pdf](https://github.com/LaetitiaBertomeu/LaetitiaBertomeu/files/13401430/CV.Laetitia.Bertomeu.-.Developpeuse.Web.en.Alternance.pdf)
+
 
 
 
