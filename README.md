@@ -9,6 +9,7 @@ Une entreprise qui me permettra d'acquérir de l'expérience pratique et de trav
  Plutôt orientée Front-end (❤️), le Back ne me fait pas peur !
 
  - React
+ - Netx.JS
  - Javascript
  - Typescript
  - Html/Css
