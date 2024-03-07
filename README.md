@@ -4,7 +4,7 @@
  Après plusieurs expériences pro dans différents domaines (hôtellerie, événementiel, vente ...), j'ai fait le choix de me lancer dans le développement web car j'aime créer, résoudre des problèmes et apprendre continuellement ! 🚀
 
   Aujourd'hui je cherche une entreprise afin de réaliser une alternance dès que possible ou un stage de 3 à 6 mois.
-Une entreprise qui me permettra d'acquérir de l'expérience pratique et de travailler aux côtés de personnes talentueuses et passionnées. 👩‍💻
+Une entreprise qui me permettra d'exercer les compétences acquises lors de ma formation avec l'école O'Clock ainsi que d'acquérir de l'expérience pratique, de nouvelles compétences et de travailler aux côtés de personnes talentueuses et passionnées. 👩‍💻
 
  Plutôt orientée Front-end (❤️), le Back ne me fait pas peur !
 
